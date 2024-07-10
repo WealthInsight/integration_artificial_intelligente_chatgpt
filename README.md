@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png"><img src="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png" alt="CRM Hubspot" width="80"></a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="chatgpt" width="80"></a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="chatgpt" width="70"></a>
   <br>
   Integration of ChatGPT for Intelligent Application Interactions
   <br>
